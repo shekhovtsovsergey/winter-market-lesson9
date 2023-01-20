@@ -28,4 +28,3 @@ public class WinterMarketCoreApplication {
 		SpringApplication.run(WinterMarketCoreApplication.class, args);
 	}
 }
- 
